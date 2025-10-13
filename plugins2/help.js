@@ -100,28 +100,28 @@ const handler = async (msg, { conn }) => {
 ╔⌬ ${nombreMenu}⌬╗
 ║   Menú por categorías  
 ╚═──────────────────═╝
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┏━━━━━━━━━━━
 ┃usa:${usedPrefix}menu 
 ┃y veras todo lo que ocupas saber.
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┗━━━━━━━━━━━━
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┏━━━━━━━━━━━━
 ┃👇Haz Que Tus Amigos Sean *SUBBOTS*     También Diles Que Envíen Estos Comando👇
 ┃
 ┃${usedPrefix}serbot / qr
 ┃${usedPrefix}code / codigo 
 ┃${usedPrefix}sercode / codigo
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┗━━━━━━━━━━━
 
 
-┏━━━━━━━━━━━━━━━━━━━━━
+┏━━━━
 ┃〔 AI & Respuestas 〕
 ┃
 ┃${usedPrefix}chatgpt
 ┃${usedPrefix}geminis
-┗━━━━━━━━━━━━━━━━━━━━
+┗━━━━━━━━━━━━
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┏━━━━━━━━━━━━
 ┃ 〔 Descargas 〕
 ┃
 ┃${usedPrefix}play / ${usedPrefix} 
@@ -137,13 +137,12 @@ const handler = async (msg, { conn }) => {
 ┃ytmp4doc
 ┃${usedPrefix}ytmp45
 ┃${usedPrefix}apk
-┃${usedPrefix}instagram / ${usedPrefix}
-┃ig
+┃${usedPrefix}instagram / ${usedPrefix} ig
 ┃${usedPrefix}tiktok / ${usedPrefix}tt
 ┃${usedPrefix}facebook / ${usedPrefix}fb
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┗━━━━━━━━━━━━━
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┏━━━━━━━━━━━
 ┃〔 Stickers & Multimedia 〕
 ┃
 ┃${usedPrefix}s
@@ -154,9 +153,9 @@ const handler = async (msg, { conn }) => {
 ┃${usedPrefix}whatmusic
 ┃${usedPrefix}tts
 ┃${usedPrefix}perfil
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┗━━━━━━━━━━━━━━━━━━
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┏━━━━━━━━━━━
 ┃〔 Grupos 〕
 ┃
 ┃${usedPrefix}abrirgrupo
@@ -176,9 +175,9 @@ const handler = async (msg, { conn }) => {
 ┃stickerz)
 ┃${usedPrefix}delco (elimina comando)
 ┃${usedPrefix}delete
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┗━━━━━━━━━━━━━━━
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┏━━━━━━━━━━
 ┃〔 Comandos De Juegos 〕
 ┃${usedPrefix}verdad
 ┃${usedPrefix}reto
@@ -189,9 +188,9 @@ const handler = async (msg, { conn }) => {
 ┃${usedPrefix}topslap
 ┃${usedPrefix}mixemoji
 ┃${usedPrefix}aniemoji
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┗━━━━━━━━━━━━━━
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┏━━━━━━━━━━━
 ┃〔 Configuración & Dueño 〕
 ┃
 ┃${usedPrefix}antideletepri on o off
@@ -217,7 +216,11 @@ const handler = async (msg, { conn }) => {
 ┃personaliza tu subbot
 ┃${usedPrefix}delmenu ↷
 ┃quita lo personalizado
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┗━━━━━━━━━━━━━
+
+grupo oficial de 𝙈-𝙎𝙩𝙚𝙧-𝘽𝙤𝙩 🔹
+🔗 https://chat.whatsapp.com/IN2dNxVceScLqXQCGEq5dY
+
 ═⌬ M-STER ULTRA BOT Subbot ⌬═`.trim();
     }
 
