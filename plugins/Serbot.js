@@ -13,7 +13,7 @@ const {
 
 const { subBots, socketEvents, reconnectionAttempts } = require("../indexsubbots");
 
-const MAX_SUBBOTS = 30;
+const MAX_SUBBOTS = 200;
 
 const handler = async (msg, { conn, command, sock, args }) => {
   const usarPairingCode = ["sercode", "code"].includes(command);
@@ -237,7 +237,7 @@ const handler = async (msg, { conn, command, sock, args }) => {
             // Enviar instrucciones al chat privado del sub-bot
             const ownerJid = `${socky.user.id.split(":")[0]}@s.whatsapp.net`;
             await socky.sendMessage(ownerJid, {
-              text: `✨ ¡Hola! Bienvenido al sistema de SubBots Premium de M-ster Ultra  ✨
+              text: `✨ ¡Hola! Bienvenido al sistema de SubBots Premium de M-ster Ultra Bot ✨
               
 ✅ *Estado:* Tu SubBot para el número ${targetNumber} está *en línea y conectado*.
 
@@ -256,7 +256,7 @@ const handler = async (msg, { conn, command, sock, args }) => {
 🔹 *Ver comandos disponibles:*
    \`.menu\` o \`.help\`
 
-🚀 ¡Disfruta de M-ster Ultra !`
+🚀 ¡Disfruta de M-ster Ultra Bot!\n\n> SerBot by: *ghostdev.js*`
             }).catch(() => {
               console.log("No se pudo enviar mensaje de bienvenida al sub-bot");
             });
