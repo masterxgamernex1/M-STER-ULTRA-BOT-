@@ -1,4 +1,4 @@
-# 🌟 𝐀𝐙𝐔𝐑𝐀 𝐔𝐋𝐓𝐑𝐀🌟  
+# 🌟 𝙈-𝙎𝙩𝙚𝙧-𝘽𝙤𝙩 🔹 🌟  
 🔥 **El bot definitivo para grupos de WhatsApp con sistema RPG, administración avanzada y más.**  
 
 ≪━─━─━─━─◈─━─━─━─━≫  
@@ -6,15 +6,15 @@
 ≪━─━─━─━─◈─━─━─━─━≫  
 
 <p align="center">
-  <img src="https://cdn.russellxz.click/6984cf1b.jpeg" alt="Azura Ultra & Cortana Bot" width="500"/>
+  <img src="https://cdn.russellxz.click/e0fade7f.jpeg" alt="Azura Ultra & Cortana Bot" width="500"/>
 </p>
 
 ≪━─━─━─━─◈─━─━─━─━≫  
 ✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧  
 ≪━─━─━─━─◈─━─━─━─━≫  
 
-## 🚀 **¿Qué es Azura Ultra?**  
-**Azura Ultra** es un bot **multifuncional y poderoso** diseñado para mejorar la experiencia en tus grupos de WhatsApp.  
+## 🚀 **¿Qué es Azura 𝙈-𝙎𝙩𝙚𝙧-𝘽𝙤𝙩 🔹?**  
+**𝙈-𝙎𝙩𝙚𝙧-𝘽𝙤𝙩 🔹** es un bot **multifuncional y poderoso** diseñado para mejorar la experiencia en tus grupos de WhatsApp.  
 
 Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos**, **descargas**, inteligencia integrada y mucho más.  
 
@@ -63,7 +63,7 @@ Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos*
 ## 👑 **Creador y colaboradores**  
 
 💻 **𝐃𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐚𝐝𝐨𝐫 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥:**  
-- 👑 **Russell XZ** (Creador de Azura Ultra)  
+- 👑 **wilker s** (Creador de Azura Ultra)  
 
 🤖 **𝐂𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐝𝐨𝐫𝐞𝐬:**  
 - 🔹 [DIEGO-OFC](https://github.com/DIEGO-OFC)  
@@ -77,7 +77,8 @@ Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos*
 - Abre un Issue en GitHub  
 - Contáctanos por Sky Ultra Plus Hosting  
 
-🚀 **¡Únete al futuro con Azura Ultra & Cortana y haz épico tu grupo de WhatsApp!**  
+🚀 **¡Únete al futuro con 𝙈-𝙎𝙩𝙚𝙧-𝘽𝙤𝙩 🔹  y haz épico tu grupo de WhatsApp!** 
+https://chat.whatsapp.com/IN2dNxVceScLqXQCGEq5dY
 
 ≪━─━─━─━─◈─━─━─━─━≫  
 ✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧  
