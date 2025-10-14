@@ -227,7 +227,7 @@ const handler = async (msg, { conn, command, sock, args }) => {
             await conn.sendMessage(
               msg.key.remoteJid,
               {
-                text: `🎉 *SUB-BOT CONECTADO EXITOSAMENTE*\n\n📱 *Número:* ${targetNumber}\n✅ *Estado:* Conectado y operativo\n🕒 *Hora:* ${new Date().toLocaleString()}\n\n💡 El sub-bot ahora está listo para usar. Revisa el chat privado del número ${targetNumber} para las instrucciones.\n\n> Serbot by: *ghostdev.js*`
+                text: `🎉 *SUB-BOT CONECTADO EXITOSAMENTE*\n\n📱 *Número:* ${targetNumber}\n✅ *Estado:* Conectado y operativo\n🕒 *Hora:* ${new Date().toLocaleString()}\n\n💡 El sub-bot ahora está listo para usar. Revisa el chat privado del número ${targetNumber} para las instrucciones.\n\n> Serbot by: *Anonymous.js*`
               },
               { quoted: msg },
             );
