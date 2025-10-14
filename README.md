@@ -13,7 +13,7 @@
 ✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧  
 ≪━─━─━─━─◈─━─━─━─━≫  
 
-## 🚀 **¿Qué es Azura 𝙈-𝙎𝙩𝙚𝙧-𝘽𝙤𝙩 🔹?**  
+## 🚀 **¿Qué es  𝙈-𝙎𝙩𝙚𝙧-𝘽𝙤𝙩 🔹?**  
 **𝙈-𝙎𝙩𝙚𝙧-𝘽𝙤𝙩 🔹** es un bot **multifuncional y poderoso** diseñado para mejorar la experiencia en tus grupos de WhatsApp.  
 
 Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos**, **descargas**, inteligencia integrada y mucho más.  
